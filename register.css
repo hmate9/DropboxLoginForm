@@ -1,0 +1,27 @@
+.form-control { margin-bottom: 10px; }
+.dop-drop {
+	width: 33.33333333%;
+}
+.reg-box {
+	display:none;
+}
+.login-box {
+	display:none;
+}
+.parent-element-center {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	height: 100%;
+	width:350px;
+	margin-left:
+	auto;
+	margin-right:auto;
+}
+.element-center {
+	position: relative;
+	top: 30%;
+	transform: translateY(-30%);
+	text-align:center;
+	margin-top:5px;
+}
